@@ -16,19 +16,19 @@ In Google Sheets, you can utilise add-ons to integrate AI functionality. Here’
 Go to Extensions: On the toolbar in Google Sheets, click on the "Extensions" menu.
 Select Get Add-ons: From the drop-down menu, choose "Add-ons" and then click on "Get add-ons" (as shown in the image below).
 
-<img width="1019" alt="Screenshot 2024-10-21 at 13 31 38" src="https://github.com/user-attachments/assets/4e161a42-4e9a-4a9d-b3d6-9c5c22080f73">
+<img width="1019" alt="Screenshot 2024-10-21 at 13 31 38" src="https://github.com/user-attachments/assets/d0d063d6-e2e5-4873-a4eb-2e32af51ca71">
 
 Search for ChatGPT: In the search bar of the add-ons window, type in “ChatGPT” to find relevant tools.
 
-<img width="982" alt="Screenshot 2024-10-21 at 13 55 07" src="https://github.com/user-attachments/assets/17194cde-dc7b-49be-9aec-f5eabb3b63ed">
+<img width="982" alt="Screenshot 2024-10-21 at 13 55 07" src="https://github.com/user-attachments/assets/b8fd1b7a-34b3-47c9-bbc7-10b680861e45">
 
 Choose an Add-on: There are several options, but I found Coefficient to be my favourite due to its functionality and the availability of a free trial.
 
-<img width="931" alt="Screenshot 2024-10-21 at 13 32 23" src="https://github.com/user-attachments/assets/a4af0744-a31a-426f-b40f-a05e5cd908b7">
+<img width="931" alt="Screenshot 2024-10-21 at 13 32 23" src="https://github.com/user-attachments/assets/393e8989-b8aa-48b2-91e7-b8868a3f7fed">
 
 Install and Enable the Add-on: Once installed, enable the add-on.
 
-<img width="1006" alt="Launch" src="https://github.com/user-attachments/assets/f0a8db74-30b8-45f1-9c45-1e5a7567251a">
+<img width="1006" alt="Launch" src="https://github.com/user-attachments/assets/2b67b144-1857-4582-aff5-1119e657664c">
 
 After enabling it, you can use this tool just like any other function in Google Sheets. Below is an example of a prompt I used, along with the resulting information.
 
@@ -36,10 +36,10 @@ After enabling it, you can use this tool just like any other function in Google 
 
 Here is an example of what I did:
 
-<img width="1288" alt="Experience Prompt" src="https://github.com/user-attachments/assets/ea0009c9-5bdf-486f-9dcd-54d5257e1593">
-<img width="1018" alt="Soft Skills Prompt" src="https://github.com/user-attachments/assets/167aae4f-03f8-442b-8bbb-7daccb80a689">
-<img width="1293" alt="Technical Skills Prompt" src="https://github.com/user-attachments/assets/3f926f1a-4fc5-415a-b6f7-76518bd60464">
-<img width="2419" alt="Overview" src="https://github.com/user-attachments/assets/6d646121-c73d-4f58-ba74-d7155a811247">
+<img width="1288" alt="Experience Prompt" src="https://github.com/user-attachments/assets/47a8bcde-1c74-42d7-8aee-bd8556b0d1a9">
+<img width="1018" alt="Soft Skills Prompt" src="https://github.com/user-attachments/assets/0e814ace-c006-44e5-810d-25d4f9ec5789">
+<img width="1293" alt="Technical Skills Prompt" src="https://github.com/user-attachments/assets/7771ffb4-3817-4ce6-b6de-1eb2dfc05e52">
+<img width="2419" alt="Overview" src="https://github.com/user-attachments/assets/694aaf09-b549-486b-b840-d3e5b14f5059">
 
 ## Coding Method
 
@@ -50,19 +50,20 @@ Here’s how I did it:
 Add a Script in Google Sheets:
 First, go to the Extensions menu and choose the option to add a script editor, as shown in the image below:
 
-<img width="389" alt="Extensions" src="https://github.com/user-attachments/assets/486942dc-1fd9-4be9-9316-fc395b04450f">
+<img width="389" alt="Extensions" src="https://github.com/user-attachments/assets/208bb765-b01e-492d-97dc-65e9bea1386d">
 
 Open the Script Editor:
 In the script editor, you can start writing your code. This is where you’ll connect to the API and manipulate data.
 
-<img width="755" alt="Code" src="https://github.com/user-attachments/assets/ca600bec-1829-4990-96e7-2e9d453fb72d">
+<img width="755" alt="Code" src="https://github.com/user-attachments/assets/9f3d82c3-1918-4309-945a-b12bafe37506">
 
 Example Script:
 Here’s an example of what the script editor looks like once you’ve written your code:
 
-<img width="1097" alt="Example" src="https://github.com/user-attachments/assets/ce1174a0-30e9-4b39-8615-1350203056b7">
+<img width="1097" alt="Example" src="https://github.com/user-attachments/assets/7c56c8e3-ac52-4da2-9a39-2e9496a058dc">
 
 API Overview:
 The API I connected to provided a range of functionality that allowed me to automatically pull job details into my spreadsheet. This not only saved time but also improved the accuracy of the information I was tracking
 
-<img width="1779" alt="Api Overview" src="https://github.com/user-attachments/assets/76caf0c5-306e-443a-a366-e5f1f61c2574">
+<img width="1779" alt="Api Overview" src="https://github.com/user-attachments/assets/a1230e3e-5496-4d5c-ae3d-4fbd855d51ae">
+
